@@ -69,7 +69,7 @@ def get_coeffs(N):
         ts = ts2
 
 
-N = 100        # N is half the side
+N = 1000        # N is half the side
 L = 2*N-1       # L is the side of the square
 
 # Creates a matrix, initialized to 0
@@ -129,5 +129,5 @@ for i in range(L):
         n = 256 - int(matrix[i][j] * 256 / nmax)
         im.putpixel((j,i), (n,n,n))
 
-im.save('%dx%d.png' % (L,L))
+im.save('images/%dx%d.png' % (L,L))
 
