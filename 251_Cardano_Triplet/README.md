@@ -65,3 +65,12 @@ N=100: 11
 
 N=1000: 149
 N=10000: 1632
+
+
+
+links:
+
+http://www.javaprogrammingforums.com/algorithms-recursion/23154-few-things-my-cardano-triplet-algorithm.html
+http://pipilupe.blogspot.com.es/2013/07/project-euler-problem-251_7.html
+http://compsci.ca/v3/viewtopic.php?p=188615
+http://euler.clarinetcat.com/
